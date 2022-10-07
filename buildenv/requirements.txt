@@ -35,7 +35,7 @@ jinja2==3.0.0
     # via
     #   mkdocs
     #   mkdocs-macros-plugin
-joblib==1.0.1
+joblib==1.2.0
     # via nltk
 livereload==2.6.3
     # via mkdocs
@@ -57,12 +57,12 @@ mkdocs-material==7.1.4
     #   -r requirements.in
     #   mkdocs-macros-plugin
     #   mkdocs-material-extensions
-mkdocs==1.1.2
+mkdocs==1.3.0
     # via
     #   -r requirements.in
     #   mkdocs-macros-plugin
     #   mkdocs-material
-nltk==3.6.2
+nltk==3.6.6
     # via lunr
 pygments==2.9.0
     # via mkdocs-material
