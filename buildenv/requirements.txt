@@ -35,7 +35,7 @@ jinja2==3.0.0
     # via
     #   mkdocs
     #   mkdocs-macros-plugin
-joblib==1.0.1
+joblib==1.2.0
     # via nltk
 livereload==2.6.3
     # via mkdocs
